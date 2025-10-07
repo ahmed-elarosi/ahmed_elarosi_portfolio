@@ -8,7 +8,7 @@ const About = () => {
   const highlights = [
     {
       icon: Code,
-      title: "3+ Years",
+      title: "4+ Years",
       subtitle: "Software Development",
       color: "text-blue-500"
     },
@@ -60,15 +60,15 @@ const About = () => {
             <p className="text-lg text-muted-foreground leading-relaxed">
               {t('about.description')}
             </p>
-            
+
             <p className="text-lg text-muted-foreground leading-relaxed">
               {t('about.experience')}
             </p>
-            
+
             <p className="text-lg text-muted-foreground leading-relaxed">
               {t('about.expertise')}
             </p>
-            
+
             <p className="text-lg text-muted-foreground leading-relaxed">
               {t('about.passion')}
             </p>

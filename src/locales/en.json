@@ -1,107 +1,107 @@
 {
-  "nav": {
-    "home": "Home",
-    "about": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "contact": "Contact"
-  },
-  "hero": {
-    "name": "Ahmed Elarosi",
-    "title": "Software & Web Developer | Data Analyst",
-    "subtitle": "Transforming ideas into digital solutions with 3+ years of software development expertise and 10+ years of business experience",
-    "downloadCV": "Download CV",
-    "contactMe": "Contact Me"
-  },
-  "about": {
-    "title": "About Me",
-    "description": "I am a passionate software developer and data analyst with a unique blend of technical expertise and business acumen. With over 3 years of experience in software development and more than 10 years in business and finance, I bring a comprehensive understanding of both technical implementation and business requirements to every project.",
-    "experience": "My journey began in the finance sector, where I developed strong analytical skills and attention to detail. This foundation has proven invaluable in my transition to software development, allowing me to create solutions that not only work technically but also address real business needs.",
-    "expertise": "I specialize in full-stack web development using modern technologies like React, Node.js, and Python. My experience spans from building responsive web applications to implementing complex data pipelines and automation systems. I'm particularly skilled in creating user-friendly interfaces while ensuring robust backend functionality.",
-    "passion": "What drives me is the opportunity to solve complex problems through code and help businesses optimize their processes through technology. I'm always eager to learn new technologies and take on challenging projects that push the boundaries of what's possible."
-  },
-  "skills": {
-    "title": "Technical Skills",
-    "categories": {
-      "programming": "Programming Languages",
-      "web": "Web Frameworks & Libraries",
-      "webTech": "Web Technologies",
-      "devops": "DevOps Tools",
-      "cloud": "Cloud Platforms",
-      "tools": "Version Control & Project Management"
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact"
     },
-    "items": {
-      "programming": ["Python", "JavaScript", "TypeScript", "Java"],
-      "web": ["React", "Streamlit", "Flask", "Django", "Node.js", "Express"],
-      "webTech": ["HTML", "CSS", "Web Components", "REST APIs"],
-      "devops": ["Jenkins", "Docker", "Kafka", "Kubernetes", "Microservices", "MongoDB"],
-      "cloud": ["AWS (S3, EC2, API Gateway)", "Linux"],
-      "tools": ["Git", "Jira", "Trello", "YouTrack"]
+    "hero": {
+        "name": "Ahmed Elarosi",
+        "title": "Software & Web Developer | Data Analyst",
+        "subtitle": "Transforming ideas into digital solutions with 5+ years of software development expertise and 10+ years of business experience",
+        "downloadCV": "Download CV",
+        "contactMe": "Contact Me"
+    },
+    "about": {
+        "title": "About Me",
+        "description": "I am a passionate software developer and data analyst with a unique blend of technical expertise and business acumen. With over 5 years of experience in software development and more than 10 years in business and finance, I bring a comprehensive understanding of both technical implementation and business requirements to every project.",
+        "experience": "My journey began in the finance sector, where I developed strong analytical skills and attention to detail. This foundation has proven invaluable in my transition to software development, allowing me to create solutions that not only work technically but also address real business needs.",
+        "expertise": "I specialize in full-stack web development using modern technologies like React, Node.js, and Python. My experience spans from building responsive web applications to implementing complex data pipelines and automation systems. I'm particularly skilled in creating user-friendly interfaces while ensuring robust backend functionality.",
+        "passion": "What drives me is the opportunity to solve complex problems through code and help businesses optimize their processes through technology. I'm always eager to learn new technologies and take on challenging projects that push the boundaries of what's possible."
+    },
+    "skills": {
+        "title": "Technical Skills",
+        "categories": {
+            "programming": "Programming Languages",
+            "web": "Web Frameworks & Libraries",
+            "webTech": "Web Technologies",
+            "devops": "DevOps Tools",
+            "cloud": "Database & Cloud Platforms",
+            "tools": "Version Control & Project Management"
+        },
+        "items": {
+            "programming": ["Python", "JavaScript", "TypeScript", "Java"],
+            "web": ["React", "Streamlit", "Flask", "Django", "FastAPI", "Node.js", "Express"],
+            "webTech": ["HTML", "CSS", "Web Components", "REST APIs"],
+            "devops": ["Jenkins", "Docker", "Kafka", "Kubernetes", "Microservices"],
+            "cloud": ["AWS (S3, EC2, API Gateway)", "Linux", "MongoDB", "PostgreSQL", "SQL"],
+            "tools": ["Git", "Jira", "Trello", "YouTrack"]
+        }
+    },
+    "projects": {
+        "title": "Projects",
+        "tabs": {
+            "software": "Software & Web Development",
+            "data": "Data Analytics"
+        },
+        "software": [
+            {
+                "title": "E-Commerce Platform",
+                "description": "Full-stack e-commerce solution with modern JavaScript frameworks, featuring user authentication, product management, and payment integration.",
+                "tech": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
+                "link": "#"
+            },
+            {
+                "title": "REST API Development",
+                "description": "Scalable REST API services for electronic postal modules with comprehensive documentation and testing.",
+                "tech": ["Java", "Spring Boot", "REST APIs", "MongoDB"],
+                "link": "#"
+            },
+            {
+                "title": "DevOps Automation",
+                "description": "CI/CD pipeline implementation reducing deployment time by 50% and improving release reliability.",
+                "tech": ["Jenkins", "Docker", "Kubernetes", "CI/CD"],
+                "link": "#"
+            }
+        ],
+        "data": [
+            {
+                "title": "Business Process Optimization",
+                "description": "Data-driven analysis and automation solutions that improved operational efficiency by 25% for business processes.",
+                "tech": ["Python", "Data Analysis", "Process Automation"],
+                "link": "#"
+            },
+            {
+                "title": "Financial Data Pipeline",
+                "description": "Automated data extraction and processing system for financial reporting, reducing manual work by 60%.",
+                "tech": ["Python", "SQL", "Data Extraction", "Automation"],
+                "link": "#"
+            },
+            {
+                "title": "Performance Analytics Dashboard",
+                "description": "Interactive dashboard for tracking and analyzing business performance metrics with real-time data visualization.",
+                "tech": ["Python", "Streamlit", "Data Visualization", "MongoDB"],
+                "link": "#"
+            }
+        ]
+    },
+    "contact": {
+        "title": "Get In Touch",
+        "description": "I'm always interested in new opportunities and exciting projects. Whether you have a question or just want to say hello, feel free to reach out!",
+        "email": "ahmed_elarosi@proton.me",
+        "location": "Rosenheim, Germany"
+    },
+    "footer": {
+        "copyright": "© 2024 Ahmed Elarosi. All rights reserved.",
+        "builtWith": "Built with React, TailwindCSS, and ❤️"
+    },
+    "theme": {
+        "light": "Light",
+        "dark": "Dark"
+    },
+    "language": {
+        "en": "English",
+        "de": "Deutsch"
     }
-  },
-  "projects": {
-    "title": "Projects",
-    "tabs": {
-      "software": "Software & Web Development",
-      "data": "Data Analytics"
-    },
-    "software": [
-      {
-        "title": "E-Commerce Platform",
-        "description": "Full-stack e-commerce solution with modern JavaScript frameworks, featuring user authentication, product management, and payment integration.",
-        "tech": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
-        "link": "#"
-      },
-      {
-        "title": "REST API Development",
-        "description": "Scalable REST API services for electronic postal modules with comprehensive documentation and testing.",
-        "tech": ["Java", "Spring Boot", "REST APIs", "MongoDB"],
-        "link": "#"
-      },
-      {
-        "title": "DevOps Automation",
-        "description": "CI/CD pipeline implementation reducing deployment time by 50% and improving release reliability.",
-        "tech": ["Jenkins", "Docker", "Kubernetes", "CI/CD"],
-        "link": "#"
-      }
-    ],
-    "data": [
-      {
-        "title": "Business Process Optimization",
-        "description": "Data-driven analysis and automation solutions that improved operational efficiency by 25% for business processes.",
-        "tech": ["Python", "Data Analysis", "Process Automation"],
-        "link": "#"
-      },
-      {
-        "title": "Financial Data Pipeline",
-        "description": "Automated data extraction and processing system for financial reporting, reducing manual work by 60%.",
-        "tech": ["Python", "SQL", "Data Extraction", "Automation"],
-        "link": "#"
-      },
-      {
-        "title": "Performance Analytics Dashboard",
-        "description": "Interactive dashboard for tracking and analyzing business performance metrics with real-time data visualization.",
-        "tech": ["Python", "Streamlit", "Data Visualization", "MongoDB"],
-        "link": "#"
-      }
-    ]
-  },
-  "contact": {
-    "title": "Get In Touch",
-    "description": "I'm always interested in new opportunities and exciting projects. Whether you have a question or just want to say hello, feel free to reach out!",
-    "email": "ahmed_elarosi@proton.me",
-    "location": "Rosenheim, Germany"
-  },
-  "footer": {
-    "copyright": "© 2024 Ahmed Elarosi. All rights reserved.",
-    "builtWith": "Built with React, TailwindCSS, and ❤️"
-  },
-  "theme": {
-    "light": "Light",
-    "dark": "Dark"
-  },
-  "language": {
-    "en": "English",
-    "de": "Deutsch"
-  }
 }

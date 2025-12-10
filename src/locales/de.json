@@ -1,107 +1,107 @@
 {
-  "nav": {
-    "home": "Startseite",
-    "about": "Über mich",
-    "skills": "Fähigkeiten",
-    "projects": "Projekte",
-    "contact": "Kontakt"
-  },
-  "hero": {
-    "name": "Ahmed Elarosi",
-    "title": "Software- & Webentwickler | Datenanalyst",
-    "subtitle": "Verwandle Ideen in digitale Lösungen mit 3+ Jahren Softwareentwicklungserfahrung und 10+ Jahren Geschäftserfahrung",
-    "downloadCV": "Lebenslauf herunterladen",
-    "contactMe": "Kontakt aufnehmen"
-  },
-  "about": {
-    "title": "Über mich",
-    "description": "Ich bin ein leidenschaftlicher Softwareentwickler und Datenanalyst mit einer einzigartigen Mischung aus technischer Expertise und Geschäftssinn. Mit über 3 Jahren Erfahrung in der Softwareentwicklung und mehr als 10 Jahren im Geschäfts- und Finanzwesen bringe ich ein umfassendes Verständnis sowohl für technische Umsetzung als auch für Geschäftsanforderungen in jedes Projekt ein.",
-    "experience": "Meine Reise begann im Finanzsektor, wo ich starke analytische Fähigkeiten und Aufmerksamkeit für Details entwickelte. Diese Grundlage hat sich als unschätzbar wertvoll für meinen Übergang zur Softwareentwicklung erwiesen und ermöglicht es mir, Lösungen zu schaffen, die nicht nur technisch funktionieren, sondern auch echte Geschäftsbedürfnisse erfüllen.",
-    "expertise": "Ich spezialisiere mich auf Full-Stack-Webentwicklung mit modernen Technologien wie React, Node.js und Python. Meine Erfahrung reicht vom Erstellen responsiver Webanwendungen bis zur Implementierung komplexer Datenpipelines und Automatisierungssysteme. Ich bin besonders geschickt darin, benutzerfreundliche Oberflächen zu erstellen und gleichzeitig robuste Backend-Funktionalität sicherzustellen.",
-    "passion": "Was mich antreibt, ist die Möglichkeit, komplexe Probleme durch Code zu lösen und Unternehmen dabei zu helfen, ihre Prozesse durch Technologie zu optimieren. Ich bin immer begierig darauf, neue Technologien zu lernen und herausfordernde Projekte anzunehmen, die die Grenzen des Möglichen erweitern."
-  },
-  "skills": {
-    "title": "Technische Fähigkeiten",
-    "categories": {
-      "programming": "Programmiersprachen",
-      "web": "Web-Frameworks & Bibliotheken",
-      "webTech": "Web-Technologien",
-      "devops": "DevOps-Tools",
-      "cloud": "Cloud-Plattformen",
-      "tools": "Versionskontrolle & Projektmanagement"
+    "nav": {
+        "home": "Startseite",
+        "about": "Über mich",
+        "skills": "Fähigkeiten",
+        "projects": "Projekte",
+        "contact": "Kontakt"
     },
-    "items": {
-      "programming": ["Python", "JavaScript", "TypeScript", "Java"],
-      "web": ["React", "Streamlit", "Flask", "Django", "Node.js", "Express"],
-      "webTech": ["HTML", "CSS", "Web Components", "REST APIs"],
-      "devops": ["Jenkins", "Docker", "Kafka", "Kubernetes", "Microservices", "MongoDB"],
-      "cloud": ["AWS (S3, EC2, API Gateway)", "Linux"],
-      "tools": ["Git", "Jira", "Trello", "YouTrack"]
+    "hero": {
+        "name": "Ahmed Elarosi",
+        "title": "Software- & Webentwickler | Datenanalyst",
+        "subtitle": "Verwandle Ideen in digitale Lösungen mit 5+ Jahren Softwareentwicklungserfahrung und 10+ Jahren Geschäftserfahrung",
+        "downloadCV": "Lebenslauf herunterladen",
+        "contactMe": "Kontakt aufnehmen"
+    },
+    "about": {
+        "title": "Über mich",
+        "description": "Ich bin ein leidenschaftlicher Softwareentwickler und Datenanalyst mit einer einzigartigen Mischung aus technischer Expertise und Geschäftssinn. Mit über 5 Jahren Erfahrung in der Softwareentwicklung und mehr als 10 Jahren im Geschäfts- und Finanzwesen bringe ich ein umfassendes Verständnis sowohl für technische Umsetzung als auch für Geschäftsanforderungen in jedes Projekt ein.",
+        "experience": "Meine Reise begann im Finanzsektor, wo ich starke analytische Fähigkeiten und Aufmerksamkeit für Details entwickelte. Diese Grundlage hat sich als unschätzbar wertvoll für meinen Übergang zur Softwareentwicklung erwiesen und ermöglicht es mir, Lösungen zu schaffen, die nicht nur technisch funktionieren, sondern auch echte Geschäftsbedürfnisse erfüllen.",
+        "expertise": "Ich spezialisiere mich auf Full-Stack-Webentwicklung mit modernen Technologien wie React, Node.js und Python. Meine Erfahrung reicht vom Erstellen responsiver Webanwendungen bis zur Implementierung komplexer Datenpipelines und Automatisierungssysteme. Ich bin besonders geschickt darin, benutzerfreundliche Oberflächen zu erstellen und gleichzeitig robuste Backend-Funktionalität sicherzustellen.",
+        "passion": "Was mich antreibt, ist die Möglichkeit, komplexe Probleme durch Code zu lösen und Unternehmen dabei zu helfen, ihre Prozesse durch Technologie zu optimieren. Ich bin immer begierig darauf, neue Technologien zu lernen und herausfordernde Projekte anzunehmen, die die Grenzen des Möglichen erweitern."
+    },
+    "skills": {
+        "title": "Technische Fähigkeiten",
+        "categories": {
+            "programming": "Programmiersprachen",
+            "web": "Web-Frameworks & Bibliotheken",
+            "webTech": "Web-Technologien",
+            "devops": "DevOps-Tools",
+            "cloud": "Cloud-Plattformen",
+            "tools": "Versionskontrolle & Projektmanagement"
+        },
+        "items": {
+            "programming": ["Python", "JavaScript", "TypeScript", "Java"],
+            "web": ["React", "Streamlit", "Flask", "Django", "Node.js", "Express"],
+            "webTech": ["HTML", "CSS", "Web Components", "REST APIs"],
+            "devops": ["Jenkins", "Docker", "Kafka", "Kubernetes", "Microservices", "MongoDB"],
+            "cloud": ["AWS (S3, EC2, API Gateway)", "Linux"],
+            "tools": ["Git", "Jira", "Trello", "YouTrack"]
+        }
+    },
+    "projects": {
+        "title": "Projekte",
+        "tabs": {
+            "software": "Software- & Webentwicklung",
+            "data": "Datenanalyse"
+        },
+        "software": [
+            {
+                "title": "E-Commerce-Plattform",
+                "description": "Full-Stack E-Commerce-Lösung mit modernen JavaScript-Frameworks, einschließlich Benutzerauthentifizierung, Produktverwaltung und Zahlungsintegration.",
+                "tech": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
+                "link": "#"
+            },
+            {
+                "title": "REST-API-Entwicklung",
+                "description": "Skalierbare REST-API-Services für elektronische Postmodule mit umfassender Dokumentation und Tests.",
+                "tech": ["Java", "Spring Boot", "REST APIs", "MongoDB"],
+                "link": "#"
+            },
+            {
+                "title": "DevOps-Automatisierung",
+                "description": "CI/CD-Pipeline-Implementierung, die die Bereitstellungszeit um 50% reduzierte und die Release-Zuverlässigkeit verbesserte.",
+                "tech": ["Jenkins", "Docker", "Kubernetes", "CI/CD"],
+                "link": "#"
+            }
+        ],
+        "data": [
+            {
+                "title": "Geschäftsprozessoptimierung",
+                "description": "Datengesteuerte Analyse- und Automatisierungslösungen, die die operative Effizienz von Geschäftsprozessen um 25% verbesserten.",
+                "tech": ["Python", "Datenanalyse", "Prozessautomatisierung"],
+                "link": "#"
+            },
+            {
+                "title": "Finanzdaten-Pipeline",
+                "description": "Automatisiertes Datenextraktions- und Verarbeitungssystem für Finanzberichte, das manuelle Arbeit um 60% reduzierte.",
+                "tech": ["Python", "SQL", "Datenextraktion", "Automatisierung"],
+                "link": "#"
+            },
+            {
+                "title": "Performance-Analytics-Dashboard",
+                "description": "Interaktives Dashboard zur Verfolgung und Analyse von Geschäftsleistungsmetriken mit Echtzeit-Datenvisualisierung.",
+                "tech": ["Python", "Streamlit", "Datenvisualisierung", "MongoDB"],
+                "link": "#"
+            }
+        ]
+    },
+    "contact": {
+        "title": "Kontakt aufnehmen",
+        "description": "Ich bin immer an neuen Möglichkeiten und spannenden Projekten interessiert. Ob Sie eine Frage haben oder einfach nur Hallo sagen möchten, zögern Sie nicht, sich zu melden!",
+        "email": "ahmed_elarosi@proton.me",
+        "location": "Rosenheim, Deutschland"
+    },
+    "footer": {
+        "copyright": "© 2025 Ahmed Elarosi. Alle Rechte vorbehalten.",
+        "builtWith": "Erstellt mit React, TailwindCSS und ❤️"
+    },
+    "theme": {
+        "light": "Hell",
+        "dark": "Dunkel"
+    },
+    "language": {
+        "en": "English",
+        "de": "Deutsch"
     }
-  },
-  "projects": {
-    "title": "Projekte",
-    "tabs": {
-      "software": "Software- & Webentwicklung",
-      "data": "Datenanalyse"
-    },
-    "software": [
-      {
-        "title": "E-Commerce-Plattform",
-        "description": "Full-Stack E-Commerce-Lösung mit modernen JavaScript-Frameworks, einschließlich Benutzerauthentifizierung, Produktverwaltung und Zahlungsintegration.",
-        "tech": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
-        "link": "#"
-      },
-      {
-        "title": "REST-API-Entwicklung",
-        "description": "Skalierbare REST-API-Services für elektronische Postmodule mit umfassender Dokumentation und Tests.",
-        "tech": ["Java", "Spring Boot", "REST APIs", "MongoDB"],
-        "link": "#"
-      },
-      {
-        "title": "DevOps-Automatisierung",
-        "description": "CI/CD-Pipeline-Implementierung, die die Bereitstellungszeit um 50% reduzierte und die Release-Zuverlässigkeit verbesserte.",
-        "tech": ["Jenkins", "Docker", "Kubernetes", "CI/CD"],
-        "link": "#"
-      }
-    ],
-    "data": [
-      {
-        "title": "Geschäftsprozessoptimierung",
-        "description": "Datengesteuerte Analyse- und Automatisierungslösungen, die die operative Effizienz von Geschäftsprozessen um 25% verbesserten.",
-        "tech": ["Python", "Datenanalyse", "Prozessautomatisierung"],
-        "link": "#"
-      },
-      {
-        "title": "Finanzdaten-Pipeline",
-        "description": "Automatisiertes Datenextraktions- und Verarbeitungssystem für Finanzberichte, das manuelle Arbeit um 60% reduzierte.",
-        "tech": ["Python", "SQL", "Datenextraktion", "Automatisierung"],
-        "link": "#"
-      },
-      {
-        "title": "Performance-Analytics-Dashboard",
-        "description": "Interaktives Dashboard zur Verfolgung und Analyse von Geschäftsleistungsmetriken mit Echtzeit-Datenvisualisierung.",
-        "tech": ["Python", "Streamlit", "Datenvisualisierung", "MongoDB"],
-        "link": "#"
-      }
-    ]
-  },
-  "contact": {
-    "title": "Kontakt aufnehmen",
-    "description": "Ich bin immer an neuen Möglichkeiten und spannenden Projekten interessiert. Ob Sie eine Frage haben oder einfach nur Hallo sagen möchten, zögern Sie nicht, sich zu melden!",
-    "email": "ahmed_elarosi@proton.me",
-    "location": "Rosenheim, Deutschland"
-  },
-  "footer": {
-    "copyright": "© 2024 Ahmed Elarosi. Alle Rechte vorbehalten.",
-    "builtWith": "Erstellt mit React, TailwindCSS und ❤️"
-  },
-  "theme": {
-    "light": "Hell",
-    "dark": "Dunkel"
-  },
-  "language": {
-    "en": "English",
-    "de": "Deutsch"
-  }
 }

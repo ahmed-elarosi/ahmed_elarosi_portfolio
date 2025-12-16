@@ -88,13 +88,13 @@
     },
     "contact": {
         "title": "Get In Touch",
-        "description": "I'm always interested in new opportunities and exciting projects. Whether you have a question or just want to say hello, feel free to reach out!",
+        "description": "I'm interested in new opportunities and exciting projects. Whether you have a question or just want to say hello, feel free to reach out!",
         "email": "ahmed_elarosi@proton.me",
         "location": "Rosenheim, Germany"
     },
     "footer": {
-        "copyright": "© 2024 Ahmed Elarosi. All rights reserved.",
-        "builtWith": "Built with React, TailwindCSS, and ❤️"
+        "copyright": "© 2025 Ahmed Elarosi. All rights reserved.",
+        "builtWith": "Built ❤️"
     },
     "theme": {
         "light": "Light",

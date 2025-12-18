@@ -10,7 +10,7 @@ const Hero = () => {
         const cvFile = i18n.language === "en" ? "/assets/CV_EN.pdf" : "/assets/CV_DE.pdf";
         const link = document.createElement("a");
         link.href = cvFile;
-        link.download = `Ahmed_Elarosi_CV_${i18n.language.toUpperCase()}.pdf`;
+        link.download = `Ahmed_Elarosi_resume_${i18n.language.toUpperCase()}.pdf`;
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);

@@ -88,13 +88,13 @@
     },
     "contact": {
         "title": "Kontakt aufnehmen",
-        "description": "Ich bin immer an neuen Möglichkeiten und spannenden Projekten interessiert. Ob Sie eine Frage haben oder einfach nur Hallo sagen möchten, zögern Sie nicht, sich zu melden!",
+        "description": "Ich bin an neuen Möglichkeiten und spannenden Projekten interessiert. Ob Sie eine Frage haben oder einfach nur Hallo sagen möchten, zögern Sie nicht, sich zu melden!",
         "email": "ahmed_elarosi@proton.me",
         "location": "Rosenheim, Deutschland"
     },
     "footer": {
         "copyright": "© 2025 Ahmed Elarosi. Alle Rechte vorbehalten.",
-        "builtWith": "Erstellt mit React, TailwindCSS und ❤️"
+        "builtWith": "Erstellt mit React, TailwindCSS und ❤️❤️"
     },
     "theme": {
         "light": "Hell",

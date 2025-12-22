@@ -7,9 +7,12 @@ const Hero = () => {
     const { t, i18n } = useTranslation();
 
     const downloadCV = () => {
+        const basePath = import.meta.env.BASE_URL;
         const cvFile = i18n.language === "en" ? "/assets/CV_EN.pdf" : "/assets/CV_DE.pdf";
+        const fullPath = `${basePath}${cvFile}`;
+
         const link = document.createElement("a");
-        link.href = cvFile;
+        link.href = fullPath;
         link.download = `Ahmed_Elarosi_resume_${i18n.language.toUpperCase()}.pdf`;
         document.body.appendChild(link);
         link.click();

@@ -8,7 +8,10 @@ const Hero = () => {
 
     const downloadCV = () => {
         const basePath = import.meta.env.BASE_URL;
-        const cvFile = i18n.language === "en" ? "/assets/CV_EN.pdf" : "/assets/CV_DE.pdf";
+        const cvFile =
+            i18n.language === "en"
+                ? "/assets/Ahmed_Elarosi_Full-Stack Software Developer.pdf"
+                : "/assets/Ahmed_Elarosi_Full-Stack Softwareentwickler.pdf";
         const fullPath = `${basePath}${cvFile}`;
 
         const link = document.createElement("a");

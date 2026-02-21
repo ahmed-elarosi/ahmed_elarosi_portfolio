@@ -114,6 +114,10 @@
    ANIMATED GRADIENT BACKGROUND
    ======================================== */
 
+a {
+    cursor: pointer;
+}
+
 @keyframes gradient-shift {
     0% {
         background-position: 0% 50%;
